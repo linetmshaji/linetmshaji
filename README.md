@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 ![Linet's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=linetmshaji&theme=buefy&layout=compact&langs_count=10)
 
 ----
-Credit: [Linet M Shaji](https://github.com/linetmshaji)
+
 
 Last Edited on: 18/06/2021
 
