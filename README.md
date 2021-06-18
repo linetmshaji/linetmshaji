@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h3>Hey there👋! I'm Linet M Shaji.</h3>
 🌱Currently doing a Java Developer Internship.
 
-## 👨🏻‍💻 &nbsp;About Me 
+## 👨🏻‍💻&nbsp;About
 
 - 👀 &nbsp; I love to build things.I am passionate about learning new technologies and strongly interested in Software Development and Data Analytics.
 - 🎓 &nbsp; Studied M.Sc Computer Science at Central university of Tamilnadu.
