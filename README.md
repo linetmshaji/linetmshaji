@@ -6,12 +6,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3>Hey there👋! I'm Linet M Shaji.</h3>
+<h3>Hi👋! I'm Linet M Shaji.</h3>
 🌱Currently doing a Java Developer Internship.
 
 ## 👨🏻‍💻&nbsp;About
 
-- 👀 &nbsp; I love to build things.I am passionate about learning new technologies and strongly interested in Software Development and Data Analytics.
+- 👀 &nbsp; I love to build things. I am passionate about learning new technologies and strongly interested in Software Development and Data Analytics.
 - 🎓 &nbsp; Studied M.Sc Computer Science at Central university of Tamilnadu.
 - 💼 &nbsp; Learning about Full Stack Development using Spring Boot and Angular.
 - 👨🏻‍💻 &nbsp; Freelancer 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/-Linet%20M%20Shaji-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/linetmshaji/)](https://www.linkedin.com/in/linetmshaji/)
 [![Gmail Badge](https://img.shields.io/badge/-mailtolinet@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailtolinet@gmail.com)](mailto:mailtolinet@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Linet%20M%20Shaji-blue?style=plastic&logo=facebook&logoColor=white&link=https://www.facebook.com/anna.linet9/)](https://www.facebook.com/anna.linet9/)
-[![Twitter Badge](https://img.shields.io/badge/-@linetmshaji-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/linetmshaji)](https://twitter.com/linetmshaji)
+<!--[![Twitter Badge](https://img.shields.io/badge/-@linetmshaji-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/linetmshaji)](https://twitter.com/linetmshaji)-->
 
 
 
