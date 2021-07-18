@@ -7,14 +7,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3>Hi👋! I'm Linet M Shaji.</h3>
-🌱Currently doing a Java Developer Internship.
 
 ## 👨🏻‍💻&nbsp;About
 
-- 👀 &nbsp; I love to build things. I am passionate about learning new technologies and strongly interested in Software Development and Data Analytics.
-- 🎓 &nbsp; Studied M.Sc Computer Science at Central university of Tamilnadu.
-- 💼 &nbsp; Learning about Full Stack Development using Spring Boot and Angular.
-- 👨🏻‍💻 &nbsp; Freelancer 
+- 👀 &nbsp; I love to build things. I am passionate about learning new technologies and strongly interested in Full Stack Development, Data Analytics and IOT.
+- 🎓 &nbsp; Studied M.Sc Computer Science at Central university of Tamilnadu (August 2019- June 2021).
+- 💼 &nbsp; Completed 6 months internship in Java Backend Development using Spring boot and PostgreSQL database(Feb 2021 - July 2021).
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linetmshaji&label=Profile%20views&color=0e75b6&style=flat" alt="linetmshaji" /> </p>
@@ -40,8 +38,8 @@ You can click the Preview link to take a look at your changes.
   ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
   <!--![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)-->
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)-->
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
