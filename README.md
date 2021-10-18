@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3>Hi👋! I'm Linet M Shaji.</h3>
+<h3>Hi👋! I'm Linet M Shaji.Currently I am working as a Software Engineer Trainee who builds applications using Springboot and Swing</h3>
 
 ## 👨🏻‍💻&nbsp;About
 
