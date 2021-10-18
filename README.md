@@ -6,13 +6,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3>Hi👋! I'm Linet M Shaji. Currently I am working as a Software Engineer who builds applications using Springboot and Swing(Aug 2021 - Present)</h3>
+<h3>Hi👋! I'm Linet M Shaji.<h3><br>
 
 ## 👨🏻‍💻&nbsp;About
 
 - 👀 &nbsp; I love to build things. I am passionate about learning new technologies and strongly interested in Full Stack Development, Data Analytics and IOT.
 - 🎓 &nbsp; Studied M.Sc Computer Science at Central university of Tamilnadu (August 2019- June 2021).
-- 💼 &nbsp; Completed 6 months internship in Java Backend Development using Spring boot and PostgreSQL database(Feb 2021 - July 2021).
+- 💼 &nbsp; Currently I am working as a Software Engineer who builds applications using Springboot and Swing(Aug 2021 - Present) and Completed 6 months internship in Java Backend Development using Spring boot and PostgreSQL database(Feb 2021 - July 2021).
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linetmshaji&label=Profile%20views&color=0e75b6&style=flat" alt="linetmshaji" /> </p>
