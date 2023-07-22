@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 ## 👨🏻‍💻&nbsp;About
 
 - 👀 &nbsp; I love to build things. I am passionate about learning new technologies and strongly interested in Software Development and Data Analytics.
-- 🎓 &nbsp; Studied M.Sc Computer Science at Central university of Tamilnadu (August 2019- June 2021).
-- 💼 &nbsp; Currently I am working as a Software Engineer who builds android and java application(Aug 2021 - Present) and Completed 6 months internship in Java Backend Development using Spring boot and PostgreSQL database(Feb 2021 - July 2021).
+- 🎓 &nbsp; Studied M.Sc Computer Science at Central University of Tamilnadu (August 2019- June 2021).
+- 💼 &nbsp; Currently I am working as a Software Engineer who builds Java applications using Springboot(May 2023 - Present)
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linetmshaji&label=Profile%20views&color=0e75b6&style=flat" alt="linetmshaji" /> </p>
