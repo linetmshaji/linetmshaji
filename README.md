@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨🏻‍💻&nbsp;About
 
-- 👀 &nbsp; I love to build things. I am passionate about learning new technologies and strongly interested in Software Development and Data Analytics.
-- 🎓 &nbsp; Studied M.Sc Computer Science at Central University of Tamilnadu (August 2019- June 2021).
-- 💼 &nbsp; Currently I am working as a Java developer at AlTomouh IT(May 2023 - Present)
+- 👀 &nbsp; Software Engineer with over 3 years of experience and an M.Sc. in Computer Science. Proficient in backend development using Java-based frameworks like Spring Boot and Hibernate. Experienced in leading and mentoring junior developers and contributing to decision-making processes.
+- 🎓 &nbsp; Completed M.Sc Computer Science fron Central University of Tamilnadu (August 2019- June 2021).
+- 💼 &nbsp; Currently working as a Java developer at AlTomouh IT(May 2023 - Present)
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linetmshaji&label=Profile%20views&color=0e75b6&style=flat" alt="linetmshaji" /> </p>
